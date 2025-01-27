@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ConsoleApp52\ConsoleApp52\bin\Debug\ConsoleApp52.exe.config
+C:\Users\hp\source\repos\ConsoleApp52\ConsoleApp52\bin\Debug\ConsoleApp52.exe
+C:\Users\hp\source\repos\ConsoleApp52\ConsoleApp52\bin\Debug\ConsoleApp52.pdb
+C:\Users\hp\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.exe
+C:\Users\hp\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.pdb
